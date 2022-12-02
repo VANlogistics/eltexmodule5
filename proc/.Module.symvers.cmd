@@ -1,1 +1,0 @@
-cmd_/home/vanguard/eltexC/module5/eltexmodule5/proc/Module.symvers := sed 's/\.ko$$/\.o/' /home/vanguard/eltexC/module5/eltexmodule5/proc/modules.order | scripts/mod/modpost -m -a  -o /home/vanguard/eltexC/module5/eltexmodule5/proc/Module.symvers -e -i Module.symvers   -T -

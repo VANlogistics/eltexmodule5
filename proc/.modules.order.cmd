@@ -1,1 +1,0 @@
-cmd_/home/vanguard/eltexC/module5/eltexmodule5/proc/modules.order := {   echo /home/vanguard/eltexC/module5/eltexmodule5/proc/proc.ko; :; } | awk '!x[$$0]++' - > /home/vanguard/eltexC/module5/eltexmodule5/proc/modules.order

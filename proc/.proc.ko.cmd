@@ -1,0 +1,1 @@
+cmd_/home/vanguard/eltexC/module5/eltexmodule5/proc/proc.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/vanguard/eltexC/module5/eltexmodule5/proc/proc.ko /home/vanguard/eltexC/module5/eltexmodule5/proc/proc.o /home/vanguard/eltexC/module5/eltexmodule5/proc/proc.mod.o;  true
